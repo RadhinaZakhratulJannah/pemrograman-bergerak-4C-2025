@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1086865769395",
+    "firebase_url": "https://metadatalagu-65c26-default-rtdb.firebaseio.com",
+    "project_id": "metadatalagu-65c26",
+    "storage_bucket": "metadatalagu-65c26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086865769395:android:6a9b8d69f9fd4a4b9401c6",
+        "android_client_info": {
+          "package_name": "com.example.metadata_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxB7rmDoEt7f6jlKCNNEzCyxHGE5TV9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
